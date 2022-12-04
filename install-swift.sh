@@ -122,7 +122,9 @@ install_toolchain () {
 # https://download.swift.org/development/ubuntu1804/swift-DEVELOPMENT-SNAPSHOT-2022-01-09-a/swift-DEVELOPMENT-SNAPSHOT-2022-01-09-a-ubuntu18.04.tar.gz.sig
 # https://download.swift.org/development/ubuntu2004/swift-DEVELOPMENT-SNAPSHOT-2022-01-09-a/swift-DEVELOPMENT-SNAPSHOT-2022-01-09-a-ubuntu20.04.tar.gz
 # https://download.swift.org/development/ubuntu2004/swift-DEVELOPMENT-SNAPSHOT-2022-01-09-a/swift-DEVELOPMENT-SNAPSHOT-2022-01-09-a-ubuntu20.04.tar.gz.sig
-
+# https://download.swift.org/swift-5.7.1-release/ubuntu2004-aarch64/swift-5.7.1-RELEASE/swift-5.7.1-RELEASE-ubuntu20.04-aarch64.tar.gz
+# https://download.swift.org/swift-5.7.1-release/ubuntu2004-aarch64/swift-5.7.1-RELEASE/swift-5.7.1-RELEASE-ubuntu20.04-aarch64.tar.gz.sig
+ 
 # Example version-specific development snapshot URLs
 # https://download.swift.org/swift-5.6-branch/xcode/swift-5.6-DEVELOPMENT-SNAPSHOT-2022-01-11-a/swift-5.6-DEVELOPMENT-SNAPSHOT-2022-01-11-a-osx.pkg
 # https://download.swift.org/swift-5.6-branch/ubuntu1804/swift-5.6-DEVELOPMENT-SNAPSHOT-2022-01-11-a/swift-5.6-DEVELOPMENT-SNAPSHOT-2022-01-11-a-ubuntu18.04.tar.gz
