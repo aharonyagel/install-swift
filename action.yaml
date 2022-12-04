@@ -11,8 +11,8 @@ runs:
   steps:
   - name: Determine Cache Options
     run: |
-      # ubuntu-20.04-5.5
-      # macos-12.2-5.5
+      # ubuntu-22.04-5.5
+      # macos-12.5.1-5.5
 
       SWIFT_VERSION=${{ inputs.version }}
 
